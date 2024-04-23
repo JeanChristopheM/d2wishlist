@@ -6,3 +6,7 @@ dimwishlist:item=568611922&perks=981914802,3373736292,3300816228,469285294
 // Scatter Signal
 //notes: PVE roll
 dimwishlist:item=2558925366&perks=839105230,689005463,2682205016,2037312142
+
+// Hung Jury
+//notes: Halt: I love this roll !
+dimwishlist:item=1453235079&perks=4090651448,3142289711,3891536761,3824105627
